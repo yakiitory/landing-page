@@ -1,0 +1,287 @@
+[786:889:0728/232422.457649:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[786:889:0728/232422.458062:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[786:889:0728/232422.458545:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[825:825:0728/232422.666589:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+[825:825:0728/232422.667778:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: OpenGL ES 2.0 is not supportable.
+[825:825:0728/232422.668700:ERROR:gl_display.cc(790)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[825:825:0728/232422.671604:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+[825:825:0728/232422.671870:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: Could not create a backing OpenGL context.
+[825:825:0728/232422.672127:ERROR:gl_display.cc(790)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[825:825:0728/232422.672257:ERROR:gl_display.cc(824)] Initialization of all EGL display types failed.
+[825:825:0728/232422.672352:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[825:825:0728/232422.725106:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+[825:825:0728/232422.725357:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: OpenGL ES 2.0 is not supportable.
+[825:825:0728/232422.725525:ERROR:gl_display.cc(790)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[825:825:0728/232422.728183:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+[825:825:0728/232422.728409:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: Could not create a backing OpenGL context.
+[825:825:0728/232422.728528:ERROR:gl_display.cc(790)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[825:825:0728/232422.728616:ERROR:gl_display.cc(824)] Initialization of all EGL display types failed.
+[825:825:0728/232422.728701:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[825:825:0728/232422.730940:ERROR:viz_main_impl.cc(186)] Exiting GPU process due to errors during initialization
+[862:7:0728/232422.941445:ERROR:command_buffer_proxy_impl.cc(128)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[786:810:0728/232906.622088:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for match.adsby.bidtheatre.com failed:
+----- Certificate i=0 (CN=match.adsby.bidtheatre.com) -----
+ERROR: Time is after notAfter
+
+
+[830:834:0728/232906.623195:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -201
+[830:834:0728/232956.885758:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[830:834:0728/232956.999292:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
+[830:834:0728/232957.112280:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
+[830:834:0728/232957.404506:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[830:834:0728/232957.581606:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[830:834:0728/232958.503873:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
+[830:834:0728/233117.818707:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
+[830:834:0728/233118.285038:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[911:1004:0729/125846.545683:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[911:1004:0729/125846.545966:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[911:1004:0729/125846.546137:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[951:951:0729/125846.842238:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+[951:951:0729/125846.843303:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: OpenGL ES 2.0 is not supportable.
+[951:951:0729/125846.844242:ERROR:gl_display.cc(790)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[951:951:0729/125846.846575:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+[951:951:0729/125846.846720:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: Could not create a backing OpenGL context.
+[951:951:0729/125846.846804:ERROR:gl_display.cc(790)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[951:951:0729/125846.846888:ERROR:gl_display.cc(824)] Initialization of all EGL display types failed.
+[951:951:0729/125846.847003:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[951:951:0729/125846.908088:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+[951:951:0729/125846.908232:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: OpenGL ES 2.0 is not supportable.
+[951:951:0729/125846.908386:ERROR:gl_display.cc(790)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[951:951:0729/125846.910751:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+[951:951:0729/125846.910937:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: Could not create a backing OpenGL context.
+[951:951:0729/125846.911041:ERROR:gl_display.cc(790)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[951:951:0729/125846.911125:ERROR:gl_display.cc(824)] Initialization of all EGL display types failed.
+[951:951:0729/125846.911208:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[951:951:0729/125846.913237:ERROR:viz_main_impl.cc(186)] Exiting GPU process due to errors during initialization
+[982:7:0729/125847.109523:ERROR:command_buffer_proxy_impl.cc(128)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[956:960:0729/130140.566202:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
+[911:911:0729/132533.801040:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+[911:911:0729/132538.712161:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/132538.872164:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/132539.170811:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/132539.271768:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/132539.382370:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/132539.497258:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/132539.832207:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/132539.944582:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/132540.048057:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/132540.168638:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/132540.520409:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/132540.632269:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/132541.024315:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/132541.264170:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/132541.768453:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/132541.879538:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/132545.008180:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/132545.616685:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/132547.925645:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+[911:935:0729/132553.588576:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for cookie-sync.api.soundcast.fm failed:
+----- Certificate i=0 (CN=*.api.soundcast.fm) -----
+ERROR: Time is after notAfter
+
+
+[956:960:0729/132553.589561:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -201
+[911:911:0729/132556.680053:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/132556.797928:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/132556.904073:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[3205:33:0729/141607.586372:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141607.586562:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141609.584363:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141609.584576:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141614.808428:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141614.808581:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141616.808486:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141616.808681:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141618.808740:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141618.808960:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141620.815214:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141620.815451:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141622.808428:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141622.808600:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141627.375049:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141627.375254:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141629.376857:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141629.377054:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141631.376688:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141631.376899:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141633.376480:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141633.376716:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141635.376598:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141635.376786:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141637.377045:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141637.377242:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141639.377176:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141639.377486:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141641.376539:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141641.376746:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141643.376783:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141643.377016:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141645.376494:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141645.376681:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141647.377251:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141647.377496:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141649.376663:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141649.376867:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141651.376478:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141651.376663:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141653.376681:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141653.376912:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141816.938456:ERROR:dtls_transport.cc(642)] DtlsTransport[0|1|__]: Received non-DTLS packet before DTLS complete.
+[3205:33:0729/141818.664828:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141818.664999:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141820.664542:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141820.664766:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141822.664686:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141822.664908:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141824.664730:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141824.664953:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141826.664538:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141826.664750:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141828.664605:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141828.664803:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141830.664603:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141830.664777:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141832.664550:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141832.664743:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141834.664742:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141834.664972:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141836.664679:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141836.664894:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141838.664455:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141838.664661:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141840.664633:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141840.664868:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141842.664505:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141842.664707:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141853.224647:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141853.224899:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141855.224500:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141855.224675:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141857.224515:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141857.224748:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141859.224494:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141859.224684:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141901.224623:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141901.224853:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141903.224453:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141903.224634:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141905.224568:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141905.224772:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141907.225017:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141907.225185:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141909.224467:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141909.224663:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141911.224470:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141911.224672:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141913.224439:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141913.224621:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141915.224659:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141915.224900:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141917.224635:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141917.224846:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141919.224492:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/141919.224693:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/142527.832609:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/142527.832894:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/142529.931504:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/142529.931703:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/142531.831521:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/142531.831918:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/142533.832866:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/142533.833108:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/142535.832478:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/142535.832709:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/142537.832964:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/142537.833201:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/142539.885074:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/142539.885285:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/142541.832539:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/142541.832760:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/142543.833129:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/142543.833354:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/142545.832549:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/142545.832785:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/142547.827519:ERROR:rtc_stats_collector.cc(2074)] Unable to add audio 'outbound-rtp' to report, ID is not unique.
+[3205:33:0729/142547.827785:ERROR:rtc_stats_collector.cc(2157)] Unable to add video 'outbound-rtp' to report, ID is not unique.
+[911:911:0729/142910.077147:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/142910.194205:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/142910.460609:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/142910.584316:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/142910.752272:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/142910.864145:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/142911.310936:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/142911.427496:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/142911.560637:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/142913.936167:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/142914.072229:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/142914.344237:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+[911:911:0729/142914.448512:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.331 s for first_image_paint 0.322 s
+To use Visual Studio Code with the Windows Subsystem for Linux, please install Visual Studio Code in Windows and uninstall the Linux version in WSL. You can then use the `code` command in a WSL terminal just as you would in a normal command prompt.
+Do you want to continue anyway? [y/N] [1631:1769:0729/150505.817101:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[1631:1769:0729/150505.817663:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[1631:1769:0729/150505.818157:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[1685:1685:0729/150506.093284:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+[1685:1685:0729/150506.094487:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: OpenGL ES 2.0 is not supportable.
+[1685:1685:0729/150506.095630:ERROR:gl_display.cc(790)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[1685:1685:0729/150506.105943:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+[1685:1685:0729/150506.106263:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: Could not create a backing OpenGL context.
+[1685:1685:0729/150506.106425:ERROR:gl_display.cc(790)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[1685:1685:0729/150506.106565:ERROR:gl_display.cc(824)] Initialization of all EGL display types failed.
+[1685:1685:0729/150506.106711:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[1685:1685:0729/150506.177390:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+[1685:1685:0729/150506.177629:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: OpenGL ES 2.0 is not supportable.
+[1685:1685:0729/150506.177798:ERROR:gl_display.cc(790)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[1685:1685:0729/150506.180475:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+[1685:1685:0729/150506.180651:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: Could not create a backing OpenGL context.
+[1685:1685:0729/150506.180761:ERROR:gl_display.cc(790)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[1685:1685:0729/150506.180852:ERROR:gl_display.cc(824)] Initialization of all EGL display types failed.
+[1685:1685:0729/150506.180933:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[1685:1685:0729/150506.183361:ERROR:viz_main_impl.cc(186)] Exiting GPU process due to errors during initialization
+[1742:7:0729/150506.366733:ERROR:command_buffer_proxy_impl.cc(128)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[1690:1694:0729/151243.983195:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1690:1694:0729/151317.584919:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1690:1694:0729/151318.055550:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1690:1694:0729/151621.086166:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+Fontconfig error: Cannot load default config file: No such file: (null)
+[1690:1694:0729/151636.267507:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1631:1631:0729/152341.569475:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+[838:938:0729/193003.242370:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[838:938:0729/193003.242658:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[838:938:0729/193003.242810:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[877:877:0729/193003.499185:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+[877:877:0729/193003.499981:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: OpenGL ES 2.0 is not supportable.
+[877:877:0729/193003.500946:ERROR:gl_display.cc(790)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[877:877:0729/193003.504072:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+[877:877:0729/193003.504224:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: Could not create a backing OpenGL context.
+[877:877:0729/193003.504335:ERROR:gl_display.cc(790)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[877:877:0729/193003.504427:ERROR:gl_display.cc(824)] Initialization of all EGL display types failed.
+[877:877:0729/193003.504526:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[877:877:0729/193003.548666:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+[877:877:0729/193003.548825:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: OpenGL ES 2.0 is not supportable.
+[877:877:0729/193003.548944:ERROR:gl_display.cc(790)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[877:877:0729/193003.551447:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+[877:877:0729/193003.551615:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: Could not create a backing OpenGL context.
+[877:877:0729/193003.551717:ERROR:gl_display.cc(790)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[877:877:0729/193003.551806:ERROR:gl_display.cc(824)] Initialization of all EGL display types failed.
+[877:877:0729/193003.551896:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[877:877:0729/193003.554185:ERROR:viz_main_impl.cc(186)] Exiting GPU process due to errors during initialization
+[914:7:0729/193003.785961:ERROR:command_buffer_proxy_impl.cc(128)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[882:887:0729/193026.403525:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[882:887:0729/193026.625467:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[882:887:0729/193026.870410:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
