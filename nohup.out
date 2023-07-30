@@ -285,3 +285,88 @@ ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could
 [882:887:0729/193026.403525:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
 [882:887:0729/193026.625467:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
 [882:887:0729/193026.870410:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
+[838:838:0729/211819.689981:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+[882:887:0729/211831.098769:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
+[882:887:0729/211831.112506:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[882:887:0729/211831.584658:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[882:887:0729/212147.590077:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[882:887:0729/212147.830724:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[838:838:0729/212335.873451:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+[838:838:0729/212946.201602:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+[838:838:0729/213018.863535:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+[882:887:0729/215130.692789:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
+[882:887:0729/215131.162831:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[882:887:0729/215244.307816:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[838:838:0729/215946.956999:ERROR:browser_main_loop.cc(274)] Gdk: gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+[838:838:0729/215950.395823:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+[882:887:0729/220131.627803:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[882:887:0729/220131.637104:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
+[882:887:0729/220132.098195:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[838:838:0729/220137.281266:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+[882:887:0729/220143.906194:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[882:887:0729/220144.366329:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[882:887:0729/220144.413200:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
+[838:838:0729/220214.234336:ERROR:interface_endpoint_client.cc(702)] Message 3 rejected by interface blink.mojom.Widget
+[882:887:0729/221224.865543:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
+[882:887:0729/221225.109138:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
+[882:887:0729/221225.340832:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[882:887:0729/221225.581671:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+Fontconfig error: Cannot load default config file: No such file: (null)
+[882:887:0729/223112.492521:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
+[882:887:0729/223112.709367:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
+[882:887:0729/223113.171574:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
+[838:838:0729/223527.429636:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+[838:838:0729/223527.429694:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+[838:838:0729/223527.429787:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+[882:887:0729/224028.793350:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[882:887:0729/224029.006011:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
+[882:887:0729/224029.298105:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[882:887:0729/224029.499265:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[838:838:0729/225812.391189:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+[882:887:0729/225920.458789:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[882:887:0729/225920.664850:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[882:887:0729/225920.931527:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[882:887:0729/225921.136882:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1004:1004:0729/231856.433033:ERROR:gl_utils.cc(402)] [.WebGL-0xb1000a2cd00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[838:838:0729/232412.937479:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+[882:887:0729/232615.607855:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[882:887:0729/232616.074892:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1004:1026:0729/233803.212667:ERROR:connection.cc(46)] X connection error received.
+[1004:1004:0729/233803.212661:ERROR:connection.cc(46)] X connection error received.
+[856:980:0730/112535.225075:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[856:980:0730/112535.225327:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[856:980:0730/112535.225542:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[896:896:0730/112535.447735:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+[896:896:0730/112535.448711:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: OpenGL ES 2.0 is not supportable.
+[896:896:0730/112535.449698:ERROR:gl_display.cc(790)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[896:896:0730/112535.453443:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+[896:896:0730/112535.453652:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: Could not create a backing OpenGL context.
+[896:896:0730/112535.453794:ERROR:gl_display.cc(790)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[896:896:0730/112535.453927:ERROR:gl_display.cc(824)] Initialization of all EGL display types failed.
+[896:896:0730/112535.454061:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[896:896:0730/112535.525174:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+[896:896:0730/112535.525345:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: OpenGL ES 2.0 is not supportable.
+[896:896:0730/112535.525468:ERROR:gl_display.cc(790)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[896:896:0730/112535.527617:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+[896:896:0730/112535.527777:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: Could not create a backing OpenGL context.
+[896:896:0730/112535.527908:ERROR:gl_display.cc(790)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[896:896:0730/112535.528027:ERROR:gl_display.cc(824)] Initialization of all EGL display types failed.
+[896:896:0730/112535.528139:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[896:896:0730/112535.530246:ERROR:viz_main_impl.cc(186)] Exiting GPU process due to errors during initialization
+[932:7:0730/112535.693414:ERROR:command_buffer_proxy_impl.cc(128)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[856:856:0730/112825.885722:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+[856:856:0730/112825.885769:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+[901:905:0730/114038.849228:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
+[901:905:0730/114039.073935:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[901:905:0730/114039.540684:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
+[901:905:0730/121544.435213:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
+[901:905:0730/121544.564005:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[901:905:0730/121544.663444:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[901:905:0730/121545.032473:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[901:905:0730/121545.130301:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[901:905:0730/121821.785933:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
+[901:905:0730/121822.247406:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
