@@ -132,31 +132,41 @@ nav ul {
     align-self: center;
 }
 
+/* third section */
+
+.third-section {
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    background-color: #E5E7EB;
+}
 
 .quote-block {
     display: flex;
     flex-direction: column;  
     align-items: center;  
-    gap: 0;
 }
 
-.third-section p {
-    width: 70vw;
+.third-section div {
+    width: 800px;
     display: flex;
     flex:auto;
-    text-align: center;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
+    margin: 0;
+    padding: 0;
 }
 
-.third-section .quote {
+.quote-block .quote {
     font-size: 36px;
     font-weight: lighter;
     font-style: italic;
 }
 
-.third-section .quotee {
+.quote .quotee {
     font-size: 24px;
     font-weight: bold;
     margin-left: auto;
+    font-style: normal;
 }
