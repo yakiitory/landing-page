@@ -96,7 +96,7 @@ nav ul {
 /* second-section */
 
 .second-section {
-    height: 600px;
+    height: 500px;
 }
 .second-section h2 {
     display: flex;
@@ -169,4 +169,58 @@ nav ul {
     font-weight: bold;
     margin-left: auto;
     font-style: normal;
+}
+
+/* fourth-section */
+
+.fourth-section {
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.fourth-section .join-ad {
+    display: flex;
+    justify-content: space-between;
+    width: 70vw;
+    height: 15vh;
+    align-items: center;
+    padding: 24px 16px 24px 16px;
+    background-color: #3882F6;
+    border-radius: 8px;
+}
+
+.fourth-section h2,
+.fourth-section p {
+    margin: 0;
+    padding: 0;
+    margin-left: 5rem;
+}
+.join-ad button {
+    padding: 8px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#F4F4F9;
+    background-color: #3882F6;
+    border: 2px solid #F4F4F9;
+    border-radius: 12px;
+    width: 150px;
+    margin-right: 5rem;
+}
+
+/* footer */
+
+footer {
+    height: 15vh;
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.section {
+    display: flex;
 }
