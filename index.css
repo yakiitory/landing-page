@@ -95,11 +95,68 @@ nav ul {
 
 /* second-section */
 
-
-.second-section .informational-img-container {
+.second-section {
+    height: 600px;
+}
+.second-section h2 {
     display: flex;
+    flex: auto;
+    justify-content: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    margin-bottom: 10vh;
+}
+#informational-img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
 }
 
-.sub-container {
+#informational-img-container div {
+    width: 200px;
     display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 18px;
+}
+
+#informational-img-container img {
+    height: 175px;
+    width: auto;
+    border: 5px solid #3882F6;
+    background-color: #3882F6;
+    padding: 8px;
+    border-radius: 16px;
+    align-self: center;
+}
+
+
+.quote-block {
+    display: flex;
+    flex-direction: column;  
+    align-items: center;  
+    gap: 0;
+}
+
+.third-section p {
+    width: 70vw;
+    display: flex;
+    flex:auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.third-section .quote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+.third-section .quotee {
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: auto;
 }

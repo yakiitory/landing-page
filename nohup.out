@@ -370,3 +370,152 @@ ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could
 [901:905:0730/121545.130301:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
 [901:905:0730/121821.785933:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
 [901:905:0730/121822.247406:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
+[901:905:0730/125620.811376:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[901:905:0730/125621.030549:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[901:905:0730/125621.285634:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[901:905:0730/125621.496681:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[901:905:0730/130520.716484:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[901:905:0730/130520.942138:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[901:905:0730/130521.180027:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[901:905:0730/130521.412012:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[901:905:0730/131421.006385:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
+[901:905:0730/131421.475811:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1023:1023:0730/134423.909195:ERROR:connection.cc(46)] X connection error received.
+[1023:1045:0730/134423.913092:ERROR:connection.cc(46)] X connection error received.
+[852:958:0731/124904.289461:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[852:958:0731/124904.289712:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[852:958:0731/124904.289897:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[893:893:0731/124904.531356:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+[893:893:0731/124904.532375:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: OpenGL ES 2.0 is not supportable.
+[893:893:0731/124904.534309:ERROR:gl_display.cc(790)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[893:893:0731/124904.542424:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+[893:893:0731/124904.542683:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: Could not create a backing OpenGL context.
+[893:893:0731/124904.542815:ERROR:gl_display.cc(790)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[893:893:0731/124904.542929:ERROR:gl_display.cc(824)] Initialization of all EGL display types failed.
+[893:893:0731/124904.543036:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[893:893:0731/124904.625798:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+[893:893:0731/124904.626014:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: OpenGL ES 2.0 is not supportable.
+[893:893:0731/124904.626112:ERROR:gl_display.cc(790)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[893:893:0731/124904.628949:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+[893:893:0731/124904.629192:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: Could not create a backing OpenGL context.
+[893:893:0731/124904.629295:ERROR:gl_display.cc(790)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[893:893:0731/124904.629424:ERROR:gl_display.cc(824)] Initialization of all EGL display types failed.
+[893:893:0731/124904.629631:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[893:893:0731/124904.635693:ERROR:viz_main_impl.cc(186)] Exiting GPU process due to errors during initialization
+[931:7:0731/124904.820801:ERROR:command_buffer_proxy_impl.cc(128)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[1020:1020:0731/125251.120591:ERROR:gl_utils.cc(402)] [.WebGL-0xf8804501c00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[1020:1020:0731/125251.757286:ERROR:gl_utils.cc(402)] [.WebGL-0xf8800a7d500]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[1020:1020:0731/125254.173167:ERROR:gl_utils.cc(402)] [.WebGL-0xf8800a40600]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[1250:23:0731/125331.822111:ERROR:stun_port.cc(99)] Binding request timed out from [0:0:0:x:x:x:x:x]:46081 (any)
+[1250:23:0731/125331.918060:ERROR:stun_port.cc(99)] Binding request timed out from [0:0:0:x:x:x:x:x]:58838 (any)
+[1267:21:0731/125333.198068:ERROR:stun_port.cc(99)] Binding request timed out from [0:0:0:x:x:x:x:x]:38238 (any)
+[1267:21:0731/125333.318142:ERROR:stun_port.cc(99)] Binding request timed out from [0:0:0:x:x:x:x:x]:59381 (any)
+[1288:22:0731/125337.214077:ERROR:stun_port.cc(99)] Binding request timed out from [0:0:0:x:x:x:x:x]:49435 (any)
+[1288:22:0731/125337.318068:ERROR:stun_port.cc(99)] Binding request timed out from [0:0:0:x:x:x:x:x]:41104 (any)
+[832:949:0731/225614.666054:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[832:949:0731/225614.666564:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[832:949:0731/225614.666911:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[884:884:0731/225614.903520:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+[884:884:0731/225614.905138:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: OpenGL ES 2.0 is not supportable.
+[884:884:0731/225614.906728:ERROR:gl_display.cc(790)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[884:884:0731/225614.915765:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+[884:884:0731/225614.915963:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: Could not create a backing OpenGL context.
+[884:884:0731/225614.916080:ERROR:gl_display.cc(790)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[884:884:0731/225614.916182:ERROR:gl_display.cc(824)] Initialization of all EGL display types failed.
+[884:884:0731/225614.916287:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[884:884:0731/225615.007017:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+[884:884:0731/225615.007318:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: OpenGL ES 2.0 is not supportable.
+[884:884:0731/225615.007539:ERROR:gl_display.cc(790)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[884:884:0731/225615.013869:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+[884:884:0731/225615.014081:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: Could not create a backing OpenGL context.
+[884:884:0731/225615.014239:ERROR:gl_display.cc(790)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[884:884:0731/225615.014389:ERROR:gl_display.cc(824)] Initialization of all EGL display types failed.
+[884:884:0731/225615.014503:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[884:884:0731/225615.017192:ERROR:viz_main_impl.cc(186)] Exiting GPU process due to errors during initialization
+[921:7:0731/225615.206796:ERROR:command_buffer_proxy_impl.cc(128)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+Opening in existing browser session.
+[1102:1102:0100/000000.152030:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+[1102:1102:0100/000000.152243:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: OpenGL ES 2.0 is not supportable.
+[1102:1102:0100/000000.152275:ERROR:gl_display.cc(790)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[1102:1102:0100/000000.155589:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+[1102:1102:0100/000000.155688:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: Could not create a backing OpenGL context.
+[1102:1102:0100/000000.155707:ERROR:gl_display.cc(790)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[1102:1102:0100/000000.155719:ERROR:gl_display.cc(824)] Initialization of all EGL display types failed.
+[1102:1102:0100/000000.155732:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[1102:1102:0100/000000.275592:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+[1102:1102:0100/000000.275737:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: OpenGL ES 2.0 is not supportable.
+[1102:1102:0100/000000.275756:ERROR:gl_display.cc(790)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[1102:1102:0100/000000.280823:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+[1102:1102:0100/000000.280957:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: Could not create a backing OpenGL context.
+[1102:1102:0100/000000.280981:ERROR:gl_display.cc(790)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[1102:1102:0100/000000.281011:ERROR:gl_display.cc(824)] Initialization of all EGL display types failed.
+[1102:1102:0100/000000.281031:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[832:832:0731/225621.823879:ERROR:zygote_communication_linux.cc(291)] Failed to send GetTerminationStatus message to zygote
+[832:873:0731/225621.827363:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+[832:832:0731/225621.832239:ERROR:network_service_instance_impl.cc(594)] Network service crashed, restarting service.
+[832:832:0731/225621.844172:ERROR:zygote_communication_linux.cc(291)] Failed to send GetTerminationStatus message to zygote
+[832:832:0731/225621.845834:ERROR:zygote_communication_linux.cc(291)] Failed to send GetTerminationStatus message to zygote
+[832:832:0731/225621.850714:ERROR:zygote_communication_linux.cc(291)] Failed to send GetTerminationStatus message to zygote
+[832:832:0731/225621.857726:ERROR:zygote_communication_linux.cc(291)] Failed to send GetTerminationStatus message to zygote
+[832:832:0731/225621.861064:ERROR:zygote_communication_linux.cc(291)] Failed to send GetTerminationStatus message to zygote
+[0731/225621.891407:ERROR:elf_dynamic_array_reader.h(64)] tag not found
+[0731/225621.898001:ERROR:file_io_posix.cc(144)] open /sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq: No such file or directory (2)
+[0731/225621.898054:ERROR:file_io_posix.cc(144)] open /sys/devices/system/cpu/cpu0/cpufreq/scaling_max_freq: No such file or directory (2)
+[832:832:0731/225621.884468:ERROR:check.cc(290)] Check failed: false. NOTREACHED log messages are omitted in official builds. Sorry!
+[832:832:0731/225621.905428:ERROR:gpu_process_host.cc(946)] GPU process launch failed: error_code=1002
+[832:832:0731/225621.914388:ERROR:gpu_process_host.cc(946)] GPU process launch failed: error_code=1002
+[832:832:0731/225621.916552:ERROR:gpu_process_host.cc(946)] GPU process launch failed: error_code=1002
+[832:832:0731/225621.919000:ERROR:gpu_process_host.cc(946)] GPU process launch failed: error_code=1002
+[832:832:0731/225621.920704:ERROR:gpu_process_host.cc(946)] GPU process launch failed: error_code=1002
+[832:832:0731/225621.922239:ERROR:gpu_process_host.cc(946)] GPU process launch failed: error_code=1002
+[832:832:0731/225621.922311:FATAL:gpu_data_manager_impl_private.cc(431)] GPU process isn't usable. Goodbye.
+[0731/225621.927489:ERROR:elf_dynamic_array_reader.h(64)] tag not found
+[0731/225621.932126:ERROR:file_io_posix.cc(144)] open /sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq: No such file or directory (2)
+[0731/225621.932183:ERROR:file_io_posix.cc(144)] open /sys/devices/system/cpu/cpu0/cpufreq/scaling_max_freq: No such file or directory (2)
+[1243:1243:0731/225638.194192:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+[1243:1243:0731/225638.194684:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: OpenGL ES 2.0 is not supportable.
+[1243:1243:0731/225638.194775:ERROR:gl_display.cc(790)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[1243:1243:0731/225638.203363:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+[1243:1243:0731/225638.203633:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: Could not create a backing OpenGL context.
+[1243:1243:0731/225638.203838:ERROR:gl_display.cc(790)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[1243:1243:0731/225638.204015:ERROR:gl_display.cc(824)] Initialization of all EGL display types failed.
+[1243:1243:0731/225638.204219:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[1200:1292:0731/225638.222309:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[1200:1292:0731/225638.222866:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[1200:1292:0731/225638.223243:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[1243:1243:0731/225638.300065:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+[1243:1243:0731/225638.300595:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: OpenGL ES 2.0 is not supportable.
+[1243:1243:0731/225638.300858:ERROR:gl_display.cc(790)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[1243:1243:0731/225638.309045:ERROR:angle_platform_impl.cc(44)] Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+ERR: Display.cpp:1063 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+[1243:1243:0731/225638.309382:ERROR:gl_display.cc(520)] EGL Driver message (Critical) eglInitialize: Could not create a backing OpenGL context.
+[1243:1243:0731/225638.309614:ERROR:gl_display.cc(790)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[1243:1243:0731/225638.309816:ERROR:gl_display.cc(824)] Initialization of all EGL display types failed.
+[1243:1243:0731/225638.309986:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[1243:1243:0731/225638.317254:ERROR:viz_main_impl.cc(186)] Exiting GPU process due to errors during initialization
+[1270:7:0731/225638.440552:ERROR:command_buffer_proxy_impl.cc(128)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[1329:1329:0731/225728.603705:ERROR:gl_utils.cc(402)] [.WebGL-0x4bc05348600]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[1200:1200:0731/230038.075604:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+[1244:1260:0731/232224.344838:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1244:1260:0731/232224.571694:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1244:1260:0731/232224.861132:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1244:1260:0731/235944.776995:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1244:1260:0731/235945.002978:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1244:1260:0801/001009.414747:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1244:1260:0801/001009.619390:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1244:1260:0801/001009.664426:ERROR:ssl_client_socket_impl.cc(980)] handshake failed; returned -1, SSL error code 1, net_error -101
